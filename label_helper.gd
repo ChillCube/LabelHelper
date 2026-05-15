@@ -410,3 +410,4 @@ static func update_text(label: Label, new_text: String, auto_resize: bool = true
 
 static func toggle_visibility(label: Label) -> void: ## Toggle label visibility
 	label.visible = not label.visible
+
